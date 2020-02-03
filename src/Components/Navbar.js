@@ -23,6 +23,7 @@ export default class Navbar extends Component {
                 activeClass="active"
                 to="section1"
                 spy={true}
+                hashSpy={true}
                 smooth={true}
                 offset={-70}
                 duration={500}
@@ -35,6 +36,7 @@ export default class Navbar extends Component {
                 activeClass="active"
                 to="section2"
                 spy={true}
+                hashSpy={true}
                 smooth={true}
                 offset={-70}
                 duration={500}
@@ -47,6 +49,7 @@ export default class Navbar extends Component {
                 activeClass="active"
                 to="section3"
                 spy={true}
+                hashSpy={true}
                 smooth={true}
                 offset={-70}
                 duration={500}
@@ -59,6 +62,7 @@ export default class Navbar extends Component {
                 activeClass="active"
                 to="section4"
                 spy={true}
+                hashSpy={true}
                 smooth={true}
                 offset={-70}
                 duration={500}
@@ -71,6 +75,7 @@ export default class Navbar extends Component {
                 activeClass="active"
                 to="section5"
                 spy={true}
+                hashSpy={true}
                 smooth={true}
                 offset={-70}
                 duration={500}

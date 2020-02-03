@@ -41,6 +41,10 @@
   cursor: pointer;
 }
 
+.nav-item > .active {
+    border-bottom: 1px solid #333;
+}
+
 .section {
 }
 
